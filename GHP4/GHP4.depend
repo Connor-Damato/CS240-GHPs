@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697607500 source:c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp4\stack.cpp
+	<iostream>
+	<cstdlib>
+	"Stack.h"
+
+1697606851 c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp4\stack.h
+	<iostream>
+

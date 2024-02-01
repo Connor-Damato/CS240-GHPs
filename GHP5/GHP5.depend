@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1698949343 source:c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp5\queue.cpp
+	<iostream>
+	<cstdlib>
+	"Queue.h"
+
+1698949335 c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp5\queue.h
+	<iostream>
+
+1697607500 source:c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp5\stack.cpp
+	<iostream>
+	<cstdlib>
+	"Stack.h"
+
+1697606851 c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp5\stack.h
+	<iostream>
+
+1699345626 source:c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp5\ghp5.cpp
+	<String>
+	<iostream>
+	<fstream>
+	<stack>
+	<queue>
+

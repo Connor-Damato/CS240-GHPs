@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701371396 source:c:\users\conno\onedrive - purdue.edu\documents\coding assignments\c++\ghp6\ghp6.cpp
+	<string>
+	<vector>
+	<iostream>
+	<numeric>
+	<algorithm>
+
